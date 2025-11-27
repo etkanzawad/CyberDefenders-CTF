@@ -4,6 +4,8 @@
 ![Tools](https://img.shields.io/badge/Tools-Splunk%20%7C%20Sysmon%20%7C%20Suricata-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
+[Boss of the SOC v1 Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/boss-of-the-soc-v1/)
+
 ## 🔍 Project Overview
 This repository documents my investigation into the **"Boss of the SOC" (BOTSv1)** capture-the-flag challenge hosted by CyberDefenders.
 
