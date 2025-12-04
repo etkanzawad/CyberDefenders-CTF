@@ -15,7 +15,7 @@ As a Computer Science graduate specializing in **Blue Team Operations**, I use t
 | Challenge Name | Category | Tools Used | Difficulty | Link |
 | :--- | :--- | :--- | :--- | :--- |
 | **Boss of the SOC v1** | Threat Hunting | Splunk, Suricata, Sysmon | ⭐⭐⭐ | [View Writeup](./Boss-of-the-SOC-v1/README.md) |
-| *(Coming Soon)* | Malware Analysis | ... | ... | ... |
+| **FalconEye** | AD Hunting | ... | ⭐⭐ | ... |
 
 ---
 
