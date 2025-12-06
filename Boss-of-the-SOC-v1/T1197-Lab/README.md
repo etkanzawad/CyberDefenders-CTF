@@ -258,9 +258,4 @@ This investigation successfully reconstructed an attack leveraging BITS job abus
 
 **Key Takeaway:** Organizations must monitor BITS operational logs and correlate process execution, network connections, and scheduled task creation to detect this increasingly common attack vector.
 
----
 
-**Author:** [Your Name]  
-**Date:** December 6, 2025  
-**Challenge:** CyberDefenders T1197 Lab  
-**Status:** ✅ 6/6 Questions Solved
