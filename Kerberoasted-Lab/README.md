@@ -323,6 +323,4 @@ Defense-in-depth ensures access even if one method is discovered.
 | 20 | Sysmon | WMI Event Consumer Activity |
 | 21 | Sysmon | WMI Event Consumer-to-Filter Binding |
 
-### SIEM Detection Rules
 
-**Rule 1: Kerberoasting Detection**
