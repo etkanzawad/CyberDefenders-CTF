@@ -12,16 +12,20 @@ As a Computer Science graduate specializing in **Blue Team Operations**, I use t
 
 ## 📂 Completed Challenges
 
-| Challenge Name | Category | Tools Used | Difficulty | 
+| Challenge Name | Category | Tools Used | Difficulty |
 | :--- | :--- | :--- | :--- |
-| **Boss of the SOC v1** | Threat Hunting | Splunk, Suricata, Sysmon | ⭐⭐⭐ | 
-| **FalconEye** | AD Hunting | ... | ⭐⭐ | ... |
+| **[Boss of the SOC v1](./Boss-of-the-SOC-v1/)** | Threat Hunting | Splunk, Suricata, Sysmon | ⭐⭐⭐ |
+| **[FalconEye](./FalconEye/)** | AD Hunting | Splunk, Sysmon, Windows Event Logs | ⭐⭐ |
+| **[GoldenSpray](./GoldenSpray-Lab/)** | AD / Password Spraying | Elastic SIEM, Splunk | ⭐⭐ |
+| **[Kerberoasted](./Kerberoasted-Lab/)** | AD / Kerberoasting | Splunk | ⭐⭐ |
+| **[ShadowRoast](./ShadowRoast-Lab/)** | AD / AS-REP Roasting & DCShadow | Splunk | ⭐⭐⭐ |
+| **[PacketDetective](./PacketDetective-Lab/)** | Network Forensics / SMB Analysis | Wireshark | ⭐⭐ |
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 * **SIEM:** Splunk, ELK Stack
-* **Forensics:** Autopsy, Volatility
+* **Forensics:** Autopsy, Volatility, Wireshark
 * **Network:** Wireshark, Zeek, Suricata
 * **Endpoint:** Sysmon, Windows Event Logs
 
